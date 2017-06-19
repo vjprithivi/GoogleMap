@@ -1,0 +1,26 @@
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+
+    <item
+        android:id="@+id/discover"
+        android:icon="@android:drawable/ic_menu_zoom"
+        android:orderInCategory="200"
+        android:title="discover"
+        app:showAsAction="ifRoom"></item>
+
+   <!-- <item
+        android:id="@+id/Bluetoothoff"
+        android:orderInCategory="200"
+        android:title="Bluetooth Off"
+        android:icon="@drawable/school"
+        app:showAsAction="ifRoom"
+        ></item>
+-->
+
+</menu>
+
